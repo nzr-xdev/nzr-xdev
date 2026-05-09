@@ -1,7 +1,3 @@
-<a href="https://github.com/nzr-xdev"> 
- <img align="center" src="./assets/header.png" width="100%">    
-</a>
-
 # Hello there \<coder/>! 👋
 
 <p align="left">
@@ -25,9 +21,9 @@ I am a passionate **Backend Developer** from Ukraine, focused on building clean,
 <p align="center">
   <img src="https://github.com/nzr-xdev/nzr-xdev/blob/output/github-snake.svg" alt="Snake">
 </p>
+
 ---
 
-<br>
 
 [image1]: assets/footer.svg
 ![alt][image1]
