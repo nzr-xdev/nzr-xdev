@@ -1,16 +1,33 @@
-## Hi there 👋
+<a href="https://github.com/nzr-xdev"> 
+ <img align="center" src="./assets/header.png" width="100%">    
+</a>
 
-<!--
-**nzr-xdev/nzr-xdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there \<coder/>! 👋
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://img.shields.io/github/stars/nzr-xdev?style=for-the-badge&color=2ea44f" alt="Stars">
+  <img src="https://img.shields.io/github/followers/nzr-xdev?style=for-the-badge&color=2ea44f" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=nzr-xdev&style=for-the-badge&color=0078d7" alt="Views">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+I am a passionate **Backend Developer** from Ukraine, focused on building clean, efficient and logical systems. I am currently deep diving into high-performance Python scripting and learning some algorithmic skills on LeetCode.
+
+* 🔭 **Current Focus**: Go through all python topics and learn backend system architectures.
+* 🎯 **Goals**: Master professional backend development and automate complex workflows.
+###  📫 Connect with me 
+* **Email**: [nzr.dev@proton.me](mailto:nzr.dev@proton.me)
+
+---
+
+<p align="center">
+  <img src="https://github.com/nzr-xdev/nzr-xdev/blob/output/github-snake.svg" alt="Snake">
+</p>
+---
+
+<br>
+
+[image1]: assets/footer.svg
+![alt][image1]
