@@ -13,13 +13,16 @@ I am a passionate **Backend Developer** from Ukraine, focused on building clean,
 
 * 🔭 **Current Focus**: Go through all python topics and learn backend system architectures.
 * 🎯 **Goals**: Master professional backend development and automate complex workflows.
+* 🌱 **Learning Path**: Currently exploring asynchronous programming in Python, APIs, db and more.
+* 🛠️ **Tools of Choice**: Daily using VS Code..
+
 ###  📫 Connect with me 
 * **Email**: [nzr.dev@proton.me](mailto:nzr.dev@proton.me)
 
 ---
 
 <p align="center">
-  <img src="https://github.com/nzr-xdev/nzr-xdev/blob/output/github-snake.svg" alt="Snake">
+  <img src="https://github.com/nzr-xdev/nzr-xdev/blob/output/github-snake-dark.svg" alt="Snake">
 </p>
 
 ---
